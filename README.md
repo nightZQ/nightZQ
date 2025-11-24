@@ -18,11 +18,14 @@
 
   [![][LinkedIn]](www.linkedin.com/in/zhen-win) [![][Gmail]](mailto:zhenwg5@gmail.com)
 
+  <img src="https://github.com/user-attachments/assets/29cc9468-1db4-4468-982a-f30843f85d47" height="120" />
+
+
   [![][C]](https://en.cppreference.com/w/c.html) [![][C++]](https://en.cppreference.com/w/cpp.html) [![][Markdown]](https://en.wikipedia.org/wiki/Markdown) [![][Figma]](https://www.figma.com/)\
   [![][Git]](https://git-scm.com/) [![][GitHub]](https://github.com/) [![][CMake]](https://cmake.org/) [![][Docker]](https://www.docker.com/)\
   [![][TailwindCSS]](https://tailwindcss.com/) [![][React.js]](https://reactjs.org/) [![][JavaScript]](https://en.wikipedia.org/wiki/JavaScript) [![][TypeScript]](https://www.typescriptlang.org/)
 
-  <br><br><br>
+  <br>
 <!-- README stats -->
   <img src="https://github.com/user-attachments/assets/cd96583e-ff11-4ac0-988a-96a53b575eed" alt="raining" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=nightZQ&custom_title=GitHub's%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&locale=en&border_radius=0&hide_border=true" alt="stats graph" height="150" />

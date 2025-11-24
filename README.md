@@ -5,7 +5,7 @@
     𝙃𝙞 𝙩𝙝𝙚𝙧𝙚~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </h1>
   <h3>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𝗂𝗌 𝖹𝗁𝖾𝗇 𝖶𝗂𝗇 𝗁𝖾𝗋𝖾.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𝗂𝗌 <ins>𝖹𝗁𝖾𝗇 𝖶𝗂𝗇</ins> 𝗁𝖾𝗋𝖾.
     <img src="https://github.com/user-attachments/assets/d4931608-5a1f-48f9-b9b7-e71e6338bb60" height="100" />
   </h3>
 
@@ -16,7 +16,7 @@
 
   ###
 
-  [![][LinkedIn]](www.linkedin.com/in/zhen-win) [![][Gmail]](mailto:zhenwg5@gmail.com)
+  Contact Me ➱ [![][LinkedIn]](www.linkedin.com/in/zhen-win) [![][Gmail]](mailto:zhenwg5@gmail.com)
 
   <img src="https://github.com/user-attachments/assets/29cc9468-1db4-4468-982a-f30843f85d47" height="120" />
 

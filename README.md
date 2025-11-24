@@ -2,24 +2,22 @@
 
   <h1>
     <img src="https://github.com/user-attachments/assets/ccefab2b-d758-47d5-a82e-63658236049c" height="80" />
-    𝙃𝙞 𝙩𝙝𝙚𝙧𝙚~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    𝙃𝙞 𝙩𝙝𝙚𝙧𝙚~
   </h1>
   <h3>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𝗂𝗌 <ins>𝖹𝗁𝖾𝗇 𝖶𝗂𝗇</ins> 𝗁𝖾𝗋𝖾.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ins>𝖹𝗁𝖾𝗇 𝖶𝗂𝗇</ins> 𝗁𝖾𝗋𝖾.&nbsp;
     <img src="https://github.com/user-attachments/assets/d4931608-5a1f-48f9-b9b7-e71e6338bb60" height="100" />
   </h3>
 
   <br>
   ▹Graduating cadet from <a href="https://42kl.edu.my/">42MY</a><br>
   ▹𝖨𝗇𝗍𝖾𝗋𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 𝖥𝗋𝗈𝗇𝗍-𝖾𝗇𝖽<br>
-  ▹Loved cat & coffee<br>
+  ▹Loves cat & coffee<br>
 
   ###
 
-  Contact Me ➱ [![][LinkedIn]](www.linkedin.com/in/zhen-win) [![][Gmail]](mailto:zhenwg5@gmail.com)
-
-  <img src="https://github.com/user-attachments/assets/29cc9468-1db4-4468-982a-f30843f85d47" height="120" />
-
+  Contact Me ➱ [![][LinkedIn]](www.linkedin.com/in/zhen-win) [![][Gmail]](mailto:zhenwg5@gmail.com)\
+  <img src="https://github.com/user-attachments/assets/87172a4f-dced-4a94-9db5-f96466092f7a" height="170" />
 
   [![][C]](https://en.cppreference.com/w/c.html) [![][C++]](https://en.cppreference.com/w/cpp.html) [![][Markdown]](https://en.wikipedia.org/wiki/Markdown) [![][Figma]](https://www.figma.com/)\
   [![][Git]](https://git-scm.com/) [![][GitHub]](https://github.com/) [![][CMake]](https://cmake.org/) [![][Docker]](https://www.docker.com/)\
@@ -31,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nightZQ&custom_title=GitHub's%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&locale=en&border_radius=0&hide_border=true" alt="stats graph" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nightZQ&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&border_radius=0&hide_border=true" height="150" alt="languages graph"  />
 
-<h5>𝙶𝚘𝚘𝚍𝚋𝚢𝚎</h5>
+<h5>𝖡𝗒𝖾! 𝖳𝗁𝖺𝗇𝗄𝗌 𝖿𝗈𝗋 𝗍𝗁𝖾 𝗍𝗂𝗆𝖾 𝗐𝗐𝗐</h5>
 
 </div>
 
